@@ -1,0 +1,7 @@
+1. Enter to docker compose
+2. write `docker compose up -d` (-d stand for deattch )
+3. Enter VSCode and check in docker extension of docker and watch that all contanierts are running
+4. Go to database and choose mariadb - enter detailes for db (you must enter dbname ddont forget)
+5. You see in VSCode the db connection
+
+

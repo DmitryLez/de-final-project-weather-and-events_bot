@@ -1,0 +1,6 @@
+# requirements.txt
+mysql-connector-python
+pandas
+minio
+telebot
+kafka-python
